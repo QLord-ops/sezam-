@@ -4,11 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78b800f2-700f-4259-b957-4057b62ec9f9" name="Changes" comment="" />
+    <list default="true" id="78b800f2-700f-4259-b957-4057b62ec9f9" name="Changes" comment="123">
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/Scripts/blockUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/blins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/company.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/dveri-mizhkomnatni.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/ferma.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/gratu-okna.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/kovani.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/mdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/metal-okna.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/metalevi-dveri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/ogorozhi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sezam-2/assets/fonts/vorota.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/.idea/0GtvsbCQV8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/Static/Scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sezam-2/assets/Scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/Static/Scripts/scripts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/data_image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEX/TQBcNTh/AAAAAXRSTlMAQObYZgAAAApJREFUeJxjYgAAAAYAAzY3fKgAAAAASUVORK5CYII=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/data_image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/fonts/SegoeUI.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sezam-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sezam-2/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/sezam-2" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "QLord-ops"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "author": "QLord-ops"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2b2275c0-c21e-468e-b2d3-c4da76306d41" />
+        <option name="url" value="https://github.com/QLord-ops/sezam-2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,7 +80,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -38,7 +89,11 @@
       <recent name="$PROJECT_DIR$/Templates/Template_000011/Images/pic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Templates/Template_000011/Images/pic" />
+      <recent name="$PROJECT_DIR$/sezam-2/assets/Scripts" />
+      <recent name="$PROJECT_DIR$/sezam-2/assets/fonts" />
+      <recent name="$PROJECT_DIR$/sezam-2/assets/Scripts/sections/fonts" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/sezam-2/assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,11 +105,30 @@
       <option name="presentableId" value="Default" />
       <updated>1681413066873</updated>
       <workItem from="1681413069889" duration="200000" />
-      <workItem from="1681413386727" duration="12742000" />
+      <workItem from="1681413386727" duration="31384000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1681483231150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681483231150</updated>
+    </task>
+    <task id="LOCAL-00002" summary="123">
+      <created>1681483530172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681483530172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
 </project>
